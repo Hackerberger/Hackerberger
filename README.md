@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
   <li>👀 I’m interested in programming stuff, social issues & sports</li>
   <li>🌱 I’m currently learning to stand on my own two feet</li>
   <li>💞️ I’m looking to collaborate on cool projects to change the world for better</li>
-  <li>📫 You can reach via email</li>
+  <li>📫 You can reach me via email</li>
 </ul>
 
 <h3 align="left">Some languages and tools I use:</h3>
