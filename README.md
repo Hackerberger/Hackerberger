@@ -1,9 +1,8 @@
-<!---
-Hackerberger/Hackerberger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![LukasLogo](https://github.com/user-attachments/assets/f9fb0661-5278-47a7-9d3b-cd72faef2ef4)
 
-<h1>Hi 👋, I'm @Hackerberger</h1>
+<h1>Hi 👋, I'mLukas</h1>
+
+
 <h3>A young & passionate developer from Austria</h3>
 <ul>
   <li>👀 I’m interested in programming stuff, social issues & sports</li>
