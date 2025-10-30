@@ -1,6 +1,6 @@
 ![LukasLogo](https://github.com/user-attachments/assets/f9fb0661-5278-47a7-9d3b-cd72faef2ef4)
 
-<h1>Hi 👋, I'mLukas</h1>
+<h1>Hi 👋, I'm Lukas</h1>
 
 
 <h3>A young & passionate developer from Austria</h3>
