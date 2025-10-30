@@ -18,9 +18,6 @@
 - Supabase
 - Deno
 
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackerberger&show_icons=true&locale=en&count_private=true&theme=tokyonight&hide_border=true" alt="hackerberger" /></p>
+![Hackerberger's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackerberger&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-<!---     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackerberger&show_icons=true&locale=en" alt="hackerberger" /></p>
---->
+![Hackerberger's Stats](https://github-readme-stats.vercel.app/api?username=Hackerberger&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
